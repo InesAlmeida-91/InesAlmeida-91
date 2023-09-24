@@ -10,7 +10,7 @@
 - 📌 Ready to a new job opportunity
 
 ### Skills: 
-<div align="center" >
+<div>
   <p>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img
