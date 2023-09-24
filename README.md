@@ -1,8 +1,7 @@
-### Hi there 👋, 
-### I'm Inês Almeida
+### Hi, I'm Inês Almeida
 #### Junior Full stack developer
 ![Junior Full stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+In%C3%AAs+Almeida;Junior+Full+stack+developer)](https://git.io/typing-svg)
 I'm on a passionate journey into the web development world because I love the constant challenge of improving myself and learning something new every day.
 
 - 🌱 I’m currently learning TypeScript 
