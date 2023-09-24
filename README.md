@@ -1,12 +1,10 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=In%C3%AAs+Almeida+-+Junior+Full+Stack+Developer)](https://git.io/typing-svg)
 # Inês Almeida - Junior Full Stack Developer
 
 ### About me:
 - 🏠 I live in Lisbon
 - 🌎 Love the constant challenge of improving myself and learning something new every day
-- 🌱 I’m currently learning TypeScript 
-- 📫 How to reach me: ines.almeida.203@gmail.com
+- 🌱 I’m currently learning TypeScript
+- 🐶 I absolutely adore my Jack Russell
 - 📌 Ready to a new job opportunity
 
 ### Skills: 
