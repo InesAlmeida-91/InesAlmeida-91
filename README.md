@@ -1,15 +1,13 @@
 ![Full Stack Web Developer](https://github.com/InesAlmeida-91/InesAlmeida-91/blob/main/Logo.png)
 
-# Inês Almeida - Full Stack Web Developer
-
-### About me:
+# About me:
 - 🏠 I live in Lisbon
 - 🌎 Love the constant challenge of improving myself and learning something new every day
 - 🌱 I’m currently learning TypeScript
 - 😄 I absolutely adore my family 🐱👶🐶
 - 📌 Ready to a new job opportunity
 
-### Skills: 
+# Skills: 
 <div>
   <p>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -99,7 +97,7 @@
 </div>
 
 
-### Contact me:
+# Contact me:
 <div>
   <a href="https://www.linkedin.com/in/inês-almeida-web-developer/">
     <img 
