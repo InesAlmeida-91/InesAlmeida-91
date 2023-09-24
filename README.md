@@ -7,7 +7,7 @@
 - 🏠 I live in Lisbon
 - 🌎 Love the constant challenge of improving myself and learning something new every day
 - 🌱 I’m currently learning TypeScript 
-- 📫 How to reach me: ines.almeida.203@gmail.com 
+- 📫 How to reach me: [![Email Icon](https://example.com/email-icon.png)](mailto:ines.almeida.203@gmail.com)
 - 📌 Ready to a new job opportunity
 
 ### Skills: 
