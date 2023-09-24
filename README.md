@@ -1,6 +1,6 @@
-# Inês Almeida - Full Stack Web Developer
+![Full Stack Web Developer](https://github.com/InesAlmeida-91/InesAlmeida-91/blob/main/Logo.png)
 
-![Full Stack Web Developer](https://github.com/InesAlmeida-91/InesAlmeida-91/blob/main/logo.png)
+# Inês Almeida - Full Stack Web Developer
 
 ### About me:
 - 🏠 I live in Lisbon
