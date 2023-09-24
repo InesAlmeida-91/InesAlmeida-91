@@ -109,5 +109,11 @@
       /> 
   </a>
     &nbsp;
-[<img src='https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/gmail.svg' alt='gmail' height='30'>](mailto:ines.almeida.203@gmail.com)
+  <a href="mailto:ines.almeida.203@gmail.com">
+    <img 
+      src='https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/gmail.svg'
+      alt='gmail'
+      width="32"
+      /> 
+  </a>
 </div>
