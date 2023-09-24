@@ -1,6 +1,7 @@
-### Hi there 👋, My name is Inês
-#### I am Junior Full stack developer
-![I am Junior Full stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, 
+### My name is Inês Almeida
+#### Junior Full stack developer
+![Junior Full stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm on a passionate journey into the web development world because I love the constant challenge of improving myself and learning something new every day.
 Ready to a new job opportunity
