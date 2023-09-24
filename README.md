@@ -6,7 +6,7 @@
 - 🏠 I live in Lisbon
 - 🌎 Love the constant challenge of improving myself and learning something new every day
 - 🌱 I’m currently learning TypeScript
-- 🐶 I absolutely adore my Jack Russell
+- 😄 I absolutely adore my family 🐱👶🐶
 - 📌 Ready to a new job opportunity
 
 ### Skills: 
