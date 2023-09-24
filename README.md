@@ -97,7 +97,7 @@
 </div>
 
 
-# Contact me:
+# My Contacts:
 <div>
   <a href="https://www.linkedin.com/in/inês-almeida-web-developer/">
     <img 
