@@ -1,14 +1,18 @@
-### Hi, I'm Inês Almeida
-#### Junior Full stack developer
-![Junior Full stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+In%C3%AAs+Almeida;Junior+Full+stack+developer)](https://git.io/typing-svg)
-I'm on a passionate journey into the web development world because I love the constant challenge of improving myself and learning something new every day.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=In%C3%AAs+Almeida+-+Junior+Full+Stack+Developer)](https://git.io/typing-svg)
+## Hi, I'm Inês Almeida 👋
+#### Junior Full Stack Developer
+![Junior Full stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+
+- 🏠 I live in Lisbon
+- 🌎 Love the constant challenge of improving myself and learning something new every day
 - 🌱 I’m currently learning TypeScript 
 - 📫 How to reach me: ines.almeida.203@gmail.com 
 - 📌 Ready to a new job opportunity
 
-##Skills: 
+### Skills: 
+
 JAVASCRIPT/ REACT / HTML / CSS
 
 
