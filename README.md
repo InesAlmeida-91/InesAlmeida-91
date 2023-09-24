@@ -101,7 +101,13 @@
 
 ### Contact me:
 <div>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/inês-almeida-web-developer/) 
-&nbsp;
+  <a href="https://www.linkedin.com/in/inês-almeida-web-developer/">
+    <img 
+      src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' 
+      alt='linkedin'
+      width="32"
+      /> 
+  </a>
+    &nbsp;
 [<img src='https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/gmail.svg' alt='gmail' height='30'>](mailto:ines.almeida.203@gmail.com)
 </div>
