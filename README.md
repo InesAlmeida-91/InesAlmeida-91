@@ -3,7 +3,8 @@
 # About me:
 - 🏠 I live in Lisbon
 - 🌎 Love the constant challenge of improving myself and learning something new every day
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript and NextJS
+- 🚀 At the moment, I'm building my own website portfolio
 - 😄 I absolutely adore my family 🐱👶🐶
 - 📌 Ready to a new job opportunity
 
