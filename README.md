@@ -1,4 +1,4 @@
-<div clas="align items">
+<div>
   
 # Inês Almeida - Frontend Developer
 
