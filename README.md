@@ -1,5 +1,7 @@
 <div>
-#Inês Almeida - Frontend Developer
+  
+# Inês Almeida - Frontend Developer
+
 </div>
 
 # About me:
