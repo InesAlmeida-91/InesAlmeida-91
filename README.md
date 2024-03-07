@@ -9,7 +9,7 @@
 - 🌎 Love the constant challenge of improving myself and learning something new every day
 - 😄 I absolutely adore my family 🐱👶🐶
 
-# Skills: 
+## Skills: 
 <div>
   <p>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -107,7 +107,7 @@
 </div>
 
 
-# How to reach me:
+## How to reach me:
 <div>
   <a href="https://www.linkedin.com/in/inês-almeida-web-developer/">
     <img 
