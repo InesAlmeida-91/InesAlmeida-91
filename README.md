@@ -1,8 +1,6 @@
-<center>
-
-# Inês Almeida - Frontend Developer
-
-</center>
+<div>
+#Inês Almeida - Frontend Developer
+</div>
 
 # About me:
 - 🏠 I live in Lisbon
