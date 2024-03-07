@@ -1,4 +1,4 @@
-Inês Almeida - Frontend Developer
+                                              #Inês Almeida - Frontend Developer
 # About me:
 - 🏠 I live in Lisbon
 - 🌎 Love the constant challenge of improving myself and learning something new every day
