@@ -1,13 +1,12 @@
 <div>
   
-# Inês Almeida - Frontend Developer
+# Inês Almeida - Full Stack Engineer
 
 </div>
 
 ## About me:
 - 🏠 I live in Lisbon
 - 🌎 Love the constant challenge of improving myself and learning something new every day
-- 😄 I absolutely adore my family 🐱👶🐶
 
 ## Skills: 
 <div>
